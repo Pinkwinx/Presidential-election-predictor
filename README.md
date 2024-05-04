@@ -1,1 +1,0 @@
-This is a final project that I collaborated with my classmates in my Data Science class. This project mainly tries to predict who would win during the 2024 presidential election by using machine learning. (NOTE THIS IS NOT MEANT TO BE POLITICALLY BIASED AT ALL)
